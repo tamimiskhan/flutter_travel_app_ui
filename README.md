@@ -1,8 +1,9 @@
 # flutter_travel_app_ui
 
-A new Flutter application.
+following Abdul aziz ahwan.
 
 ## Getting Started
+<img src="images/Screenshot_1621255910.png" width=150/>       <img src="images/Screenshot_1621255916.png" width=150/>
 
 This project is a starting point for a Flutter application.
 
